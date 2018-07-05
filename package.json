@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-mini",
+  "version": "1.0.0",
+  "main": "functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "https://github.com/mcintdre000/unit-testing-mini.git",
+  "author": "mcintdre000 <38018234+mcintdre000@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.3.0"
+  }
+}
